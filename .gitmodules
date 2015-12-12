@@ -1,0 +1,3 @@
+[submodule "TorUtils"]
+	path = TorUtils
+	url = https://github.com/dapphp/TorUtils
